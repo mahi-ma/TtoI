@@ -63,4 +63,4 @@ npm run test
 
 Here is the screenshot of running project:
 
-![Project Screen Demo](https://ibb.co/ccBkkXk)
+<a href="https://ibb.co/ccBkkXk" target="_blank">Project screenshot demo</a>
