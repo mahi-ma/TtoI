@@ -63,4 +63,4 @@ npm run test
 
 Here is the screenshot of running project:
 
-![Project Screen Demo](path_to_your_image.png)
+![Project Screen Demo](https://ibb.co/ccBkkXk)
